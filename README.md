@@ -53,9 +53,9 @@ WinForms app with role-based access and transaction handling.
 **Tech:** C#, .NET, SQL Server
 
 ### 📚 Library Management System
-Java Swing system with Oracle backend for library operations.
+Java Swing–based library management system with a MySQL backend.
 
-**Tech:** Java, Oracle 10g, Swing
+**Tech:** Java, MySQL, Swing, XAMPP, phpMyAdmin
 
 ---
 
