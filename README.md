@@ -1,19 +1,14 @@
 
 # 👋 Hi, I'm Md. Nabil Adibur Rahman
+Computer Science Student Interested in AI, Machine Learning, and Software Engineering
 ## 👨‍💻 About Me
 
-- 🎓 BSc in **Computer Science & Engineering** @ AIUB
-- 📚 **Machine Learning Engineer** (in progress)
-- 🌍 Aiming for MSc in **Machine Learning / AI** abroad
-- 🧠 Currently building depth in **ML fundamentals** & **data-driven systems**
-- 🏆 Dean's Award for Academic Excellence | Merit-Based Scholarship Recipient
-- 💼 **Languages & Tools:**
-    - 🐍 `Python` for ML & Data Science
-    - ⚙️ `C++` for systems & language design
-    - ☕ `Java` for GUI applications
-    - 💻 `C#` for desktop & web applications
-    - 🗄️ `SQL` for database management
-- 🔍 **Focus Areas:** `Machine Learning`, `Data Analysis`, `Software Design`, `Systems Thinking`
+I am a Computer Science & Engineering student at AIUB with an interest in Machine Learning, Artificial Intelligence, and software development. I enjoy applying programming and analytical thinking to solve real-world problems through projects and continuous learning.
+
+My current focus is strengthening my foundations in machine learning, statistics, data analysis, and software engineering while building practical projects that help me gain hands-on experience. I am particularly interested in understanding how intelligent systems are designed, evaluated, and deployed.
+
+Alongside my academic studies, I continue exploring new technologies and improving my skills in Python, C++, Java, C#, and SQL. My long-term goal is to pursue advanced studies and research in AI and Machine Learning.
+
 
 ---
 
@@ -35,37 +30,48 @@
 
 ## 🚀 Featured Projects
 
-### 🌱 Smart Water Irrigation System
+### Smart Water Irrigation System
 ML-based decision system for agriculture with sensor data analysis.
 
 **Tech:** Python, Scikit-learn, Pandas, Streamlit  
-**🔗** [GitHub Repo](https://github.com/nabil-adib/microprocessor-water-irrigation)
 
-### 🧠 BanglaLang Interpreter
+### Credit Card Fraud Detection System
+Developed an machine learning system for detecting fraudulent transactions on an imbalanced dataset.
+
+**Tech:** Python, Scikit-learn, XGBoost, FastAPI, Streamlit
+
+### BanglaLang Interpreter
 Custom interpreter for Bengali-inspired programming language.
 
 **Tech:** C++17  
 **Focus:** Compiler design, language implementation
 
-### 🏦 Banking Management System
+### Banking Management System
 WinForms app with role-based access and transaction handling.
 
 **Tech:** C#, .NET, SQL Server
 
-### 📚 Library Management System
+### Library Management System
 Java Swing–based library management system with a MySQL backend.
 
 **Tech:** Java, MySQL, Swing, XAMPP, phpMyAdmin
 
 ---
 
-## 📘 Current Learning Goals
+## Currently Working On
 
-- 📊 Strengthen statistics and ML theory  
-- 🔄 Build clean, reproducible data pipelines  
-- 🎯 Develop interpretable ML systems  
-- 🌐 Prepare for AI-focused higher studies  
-- 🤝 Contribute to Open Source ML/AI projects
+- Model evaluation and threshold tuning
+- FastAPI + Streamlit deployment workflows
+- Strengthening statistics and machine learning fundamentals
+
+---
+## 📊 My GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=nabil-adib&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Nabil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=nabil-adib&layout=compact&theme=tokyonight&langs_count=7" alt="Nabil's Top Languages" width="48%" />
+</p>
+
 
 ---
 
