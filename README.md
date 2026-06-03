@@ -38,7 +38,7 @@ ML-based decision system for agriculture with sensor data analysis.
 ### Credit Card Fraud Detection System
 Developed an machine learning system for detecting fraudulent transactions on an imbalanced dataset.
 
-**Tech:** Python, Scikit-learn, XGBoost, FastAPI, Streamlit
+**Tech:** Python, Scikit-learn, Pandas, NumPy
 
 ### BanglaLang Interpreter
 Custom interpreter for Bengali-inspired programming language.
